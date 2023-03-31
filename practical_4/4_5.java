@@ -12,5 +12,5 @@ public class MyThread extends Thread {
 }
 
 
-// output
+// output :
 // thread is running...
